@@ -1,5 +1,7 @@
 # Guy Garvey's Finest Hour (BBC 6Music)
 
+![Guy Garvey's Finest Hour (BBC 6Music)](https://github.com/hobbsy/bbc-6music-guy-garvey/blob/main/images/guy-garveys-finest-hour-bbc-6music.jpg?raw=true)
+
 **Guy Garvey's Finest Hour** is a weekly radio show on BBC 6Music here in the UK. It's presented by Guy Garvey from the band Elbow. 
 
 You can tune in on Sundays (normally a 3 hour show from 1-4pm) via UK DAB radio or listen again on BBC Sounds.
